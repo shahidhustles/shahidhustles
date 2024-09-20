@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shahidhustles
-- Currently building @FlexiSubs.  Shipping soon.
+- Currently building something cool for your email purposes.  Shipping soon 🚀🚀
   
 
 
