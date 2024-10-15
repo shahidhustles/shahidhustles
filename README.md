@@ -1,4 +1,4 @@
-![we-do-startup](https://tenor.com/IpTm.gif)
+![we-do-startup](https://media1.tenor.com/m/MG3mVjBBcNcAAAAC/south-park-4point-plan.gif)
 
 
 <!---
