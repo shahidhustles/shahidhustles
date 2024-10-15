@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @shahidhustles
-- Currently building something cool for your email purposes.  Shipping soon 🚀🚀
-  
+![we-do-startup](https://tenor.com/IpTm.gif)
 
 
 <!---
