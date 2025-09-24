@@ -1,4 +1,4 @@
-![Welcome GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTNjZGRlZXM4NjhrYXF5NWVrb2Vsand1b3RpMWV3NTgzZ2wyYTdseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTMxfXzAohYnkiTZlg/giphy.gif)
+![Welcome GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFrNHN4MjdpMXFjeXB2MTFjYXlrdXNpdTNlejAwNmVuNDFwbHA4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j4rPM934CLIvC/giphy.gif)
 
 <!---
 shahidhustles/shahidhustles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
